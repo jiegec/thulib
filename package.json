@@ -1,0 +1,21 @@
+{
+  "name": "thulib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cheerio-without-node-native": "^0.20.2",
+    "es6-sleep": "^2.0.2",
+    "extend": "^3.0.1",
+    "iconv-lite": "^0.4.19",
+    "moment": "^2.18.1",
+    "textversionjs": "^1.0.2",
+    "xhr-promise": "^2.0.0"
+  }
+}

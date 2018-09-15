@@ -17,7 +17,7 @@
     "events": "^1.1.1",
     "extend": "^3.0.1",
     "iconv-lite": "^0.4.19",
-    "moment": "^2.18.1",
+    "moment": "^2.22.2",
     "request-promise": "^4.2.2",
     "stream": "0.0.2",
     "textversionjs": "^1.0.2",

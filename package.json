@@ -12,7 +12,6 @@
   "dependencies": {
     "buffer": "^5.0.8",
     "cheerio": "^1.0.0-rc.2",
-    "cheerio-without-node-native": "^0.20.2",
     "es6-sleep": "^2.0.2",
     "events": "^1.1.1",
     "extend": "^3.0.1",

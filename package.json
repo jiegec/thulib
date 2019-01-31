@@ -24,5 +24,15 @@
     "url-search-params": "^0.10.0",
     "util": "^0.10.3",
     "xhr-promise": "^2.0.0"
+  },
+  "eslintConfig": {
+    "extends": "airbnb"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.0",
+    "eslint-plugin-react": "^7.12.4"
   }
 }
